@@ -16,6 +16,13 @@
     justify-content: space-between;
     align-items: center;
 }
+
+.menu a{
+    color: blue;
+    text-decoration: none;
+    margin-left: 15px;
+}
+
 .navegacao{
     background-color: #d81313;
     display: inline-block;
