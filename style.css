@@ -22,6 +22,10 @@
     text-decoration: none;
     margin-left: 15px;
 }
+.conteudo{
+    display: flex;
+    height: 200px;
+}
 .menu a:hover{
     color: red;
 }
