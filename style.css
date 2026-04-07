@@ -22,7 +22,9 @@
     text-decoration: none;
     margin-left: 15px;
 }
-
+.menu a:hover{
+    color: red;
+}
 .navegacao{
     background-color: #d81313;
     display: inline-block;
