@@ -24,7 +24,7 @@
 }
 .conteudo{
     display: flex;
-    height: 200px;
+    
 }
 .menu a:hover{
     color: red;
@@ -47,6 +47,13 @@
     display: inline-block;
     width: 70%;
     padding: 10px;
+}
+.secao p{
+    margin-bottom: 10px;
+}
+
+.formulario{
+    margin-bottom: 10px;
 }
 .rodape{
     background-color: #7fff00;
