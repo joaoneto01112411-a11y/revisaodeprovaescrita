@@ -71,3 +71,7 @@
     gap: 5px;
     text-decoration: none;
 }
+.redes a:hover{
+    color: floralwhite;
+    opacity: 0.7;
+}
