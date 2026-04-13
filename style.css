@@ -50,4 +50,9 @@
 }
 .rodape{
     background-color: #7fff00;
+    height:  70px;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
